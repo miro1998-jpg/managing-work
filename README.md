@@ -1,6 +1,6 @@
 # Planning and tracking your work with GitHub Projects and Issues
 
-## Abstractttt
+## Abstract
 
 Learn how GitHub Issues and project planning capabilities balance structure and flexibility for complex software development. Get hands-on with the redesigned GitHub Issues experience and other enhancements and discover practical techniques for leveraging markdown-based issue templates and custom sections that adapt to your team's unique workflows. Perfect for developers and DevOps practitioners seeking to streamline collaboration without sacrificing visibility or accountability.
 
@@ -10,7 +10,7 @@ This lab was created to support Microsoft Build 2025. A version for general publ
 
 ## Requirements
 
-Currently, this lab requires the environment provided at Microsoft Build 2025.  In the future is should be available for use any GitHub organization.
+Currently, this lab requires the environment provided at Microsoft Build 2025. In the future it should be available for use by any GitHub organization.
 
 ## License 
 

@@ -1,6 +1,6 @@
 ---
-name: Build Lab-Issue Basics template
-about: 'This template was created to save typing in the '
+name: Build Lab - Issue Basics template
+about: 'Template to streamline creating the Issue Basics lab item.'
 title: Investigate Issue Basics
 labels: ''
 
